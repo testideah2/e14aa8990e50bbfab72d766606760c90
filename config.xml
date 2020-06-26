@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.hackinfo.online"
         versionCode = "10"
-        version     = "1.14.0">
+        version     = "1.15.0">
 
     <name>hackinfo.online</name>
 
